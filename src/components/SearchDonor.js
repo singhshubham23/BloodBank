@@ -10,6 +10,9 @@ function SearchDonor() {
     { name: "Rahul Sharma", bloodGroup: "A+", city: "Delhi", phone: "9876543210" },
     { name: "Priya Verma", bloodGroup: "O-", city: "Mumbai", phone: "9123456780" },
     { name: "Amit Kumar", bloodGroup: "B+", city: "Delhi", phone: "9988776655" },
+    { name: "Shaswat Kashyap", bloodGroup: "O+", city: "Durgapur", phone: "9988666655" },
+    { name: "Ankit Gupta", bloodGroup: "B-", city: "Durgapur", phone: "5588776655" },
+    { name: "Shubham Kumar", bloodGroup: "B+", city: "Durgapur", phone: "3344556677" },
   ];
 
   const handleSearch = () => {
